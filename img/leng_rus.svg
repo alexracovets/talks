@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Эллипс_664" data-name="Эллипс 664" cx="26" cy="26" r="26" transform="translate(0.275 0.275)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_74704" data-name="Сгруппировать 74704" transform="translate(-1817 -57)">
+    <g id="Группа_масок_32" data-name="Группа масок 32" transform="translate(1816.725 56.725)" clip-path="url(#clip-path)">
+      <g id="Сгруппировать_69715" data-name="Сгруппировать 69715" transform="translate(-12.807 0.065)">
+        <g id="Сгруппировать_72646" data-name="Сгруппировать 72646" transform="translate(0 0)">
+          <path id="Контур_33140" data-name="Контур 33140" d="M-1264.122,606.018V588.637h-78.217v17.381Z" transform="translate(1342.338 -571.254)" fill="#0456bd" fill-rule="evenodd"/>
+          <path id="Контур_33141" data-name="Контур 33141" d="M-1342.338,621.853h78.217V604.472h-78.217v17.381Z" transform="translate(1342.338 -569.709)" fill="#ff1612" fill-rule="evenodd"/>
+          <path id="Контур_33142" data-name="Контур 33142" d="M-1342.338,590.183h78.217V572.8h-78.217v17.383Z" transform="translate(1342.338 -572.8)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+    <g id="Эллипс_665" data-name="Эллипс 665" transform="translate(1817 57)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="26" cy="26" r="26" stroke="none"/>
+      <circle cx="26" cy="26" r="25" fill="none"/>
+    </g>
+    <g id="Эллипс_667" data-name="Эллипс 667" transform="translate(1819 59)" fill="none" stroke="#101010" stroke-width="3">
+      <circle cx="24" cy="24" r="24" stroke="none"/>
+      <circle cx="24" cy="24" r="22.5" fill="none"/>
+    </g>
+  </g>
+</svg>
